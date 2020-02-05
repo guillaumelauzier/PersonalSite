@@ -13,7 +13,7 @@ permalink:        /blog/:year/:month/:day/:title
 title:            'Guillaume Lauzier'
 tagline:          'Developer & Entrepreneur'
 description:      'Guillaume Lauzier is a entrepreneur, full stack web iOS and blockchain developer.'
-url:              'http://www.guillaumelauzier.com'
+url:              'https://www.guillaumelauzier.com'
 baseurl:          'PersonalSite'
 
 # Navigation
@@ -37,12 +37,12 @@ author:         'Guillaume Lauzier'
 
 #Social Media links (Use complete URL except for email)
 dribbble:
-email:          'mailto:guillaumelauzier@gmail.com'
+email:          'guillaumelauzier@gmail.com'
 facebook:       
 flickr:
 github:         'https://github.com/guillaumelauzier'
 gplus:          
-instagram:
+instagram:      'https://instagram.com/guillaumelauzier
 pinterest:
 linkedin:       'https://linkedin.com/in/guillaumelauzier'
 rss:
