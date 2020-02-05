@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hi, I am Abdel Raoof Olakara
+title: Guillaume Lauzier
 description: About Me page of Abdel Raoof
 theme: purple
 ---
