@@ -10,9 +10,9 @@ gems: [jekyll-paginate]
 permalink:        /blog/:year/:month/:day/:title
 
 # Setup
-title:            'Guillaume'
-tagline:          'A Metro theme for Jekyll'
-description:      'A Sample blog using Jekyll Metro'
+title:            'Guillaume Lauzier'
+tagline:          'Developer & Entrepreneur'
+description:      'Guillaume Lauzier is a entrepreneur, full stack web iOS and blockchain developer.'
 url:              'http://www.guillaumelauzier.com'
 baseurl:          'PersonalSite'
 
@@ -33,24 +33,24 @@ navigation:
 
 
 # Author Details
-author:         'Abdel Raoof Olakara'
+author:         'Guillaume Lauzier'
 
 #Social Media links (Use complete URL except for email)
 dribbble:
-email:
-facebook:       'https://www.facebook.com/olakara'
+email:          'mailto:guillaumelauzier@gmail.com
+facebook:       
 flickr:
-github:         'https://github.com/olakara'
-gplus:          'https://plus.google.com/100425464897246255887/'
+github:         'https://github.com/guillaumelauzier'
+gplus:          
 instagram:
 pinterest:
-linkedin:       'https://ae.linkedin.com/in/olakara/'
+linkedin:       'https://linkedin.com/in/guillaumelauzier'
 rss:
-stackoverflow:  'http://stackoverflow.com/users/185655/abdel-raoof'
+stackoverflow: 
 twitter:        'https://twitter.com/olakara'
 
 # Google Analytics
-gahandler: 'UA-52149651-1'
+gahandler: 'UA-35910281-42'
 
 #if footersvg is 'true' the social media links will be shown top on the copy right in the footer
 footersvg: 'true'
