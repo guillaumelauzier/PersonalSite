@@ -91,12 +91,12 @@ Implemented custom applications for content and knowledge management. Have also 
 				<p>Founder</p>
 			</li>
 			<li>
-				<h4>GS Banque</h4>
+				<h4>GS Banque (Geneva, Switzerland)</h4>
 				<h5>April 2018 - August 2018</h5>
 				<p>IT & Digital Marketing Consultant</p>
 			</li>
 			<li>
-				<h4>FIAUD (Future Interactive Architecture & Urban Design)</h4>
+				<h4>FIAUD (Toronto, Canada)</h4>
 				<h5>May 2014 - December 2016</h5>
 				<p>Founder</p>
 			</li>
@@ -106,47 +106,47 @@ Implemented custom applications for content and knowledge management. Have also 
 				<p>Founder</p>
 			</li>
 			<li>
-				<h4>Noctune</h4>
+				<h4>Noctune (Lausanne, Switzerland)</h4>
 				<h5>August 2012 - December 2016</h5>
 				<p>Founder</p>
 			</li>
 			<li>
-				<h4>Humans Rights Foundation (Centre Oecuménique, Geneva)</h4>
+				<h4>Humans Rights Foundation (Centre Oecuménique Geneva, Switzerland)</h4>
 				<h5>November 2014 - January 2015</h5>
 				<p>IT & Digital Marketing Consultant</p>
 			</li>
 			<li>
-				<h4>Dorier SA</h4>
+				<h4>Dorier SA (Lausanne & Montreux, Switzerland)</h4>
 				<h5>August 2011 - June 2013</h5>
 				<p>Audiovisual Technician</p>
 			</li>
 			<li>
-				<h4>Galletti & Matter Architects</h4>
+				<h4>Galletti & Matter Architects (Lausanne, Switzerland)</h4>
 				<h5>January 2009 - June 2009</h5>
 				<p>Internship</p>
 			</li>
 			<li>
-				<h4>B.Corbat & B.Cavassini Architects</h4>
+				<h4>B.Corbat & B.Cavassini Architects (Lausanne, Switzerland)</h4>
 				<h5>June 2007 - July 2007</h5>
 				<p>Internship</p>
 			</li>
 			<li>
-				<h4>R.Bisseger&M.Caravaglio</h4>
+				<h4>R.Bisseger & M.Caravaglio Architects (Aigle, Switzerland)</h4>
 				<h5>May 2007 - June 2007</h5>
 				<p>Internship</p>
 			</li>
 			<li>
-				<h4>Sport Chek</h4>
+				<h4>Sport Chek (Vancouver, Canada)</h4>
 				<h5>December 2006 - December 2008</h5>
 				<p>Technical Sales Representative</p>
 			</li>
 			<li>
-				<h4>Radio Chablais</h4>
+				<h4>Radio Chablais (Monthey, Switzerland)</h4>
 				<h5>June 2005 - August 2005</h5>
 				<p>Internship</p>
 			</li>
 			<li>
-				<h4>Théâtre du Crochetan</h4>
+				<h4>Théâtre du Crochetan (Monthey, Switzerland)</h4>
 				<h5>January 2004- September 2005</h5>
 				<p>Audiovisual Technician</p>
 			</li>
