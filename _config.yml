@@ -13,7 +13,7 @@ permalink:        /blog/:year/:month/:day/:title
 title:            'Guillaume Lauzier'
 tagline:          'Developer & Entrepreneur'
 description:      'Guillaume Lauzier is a entrepreneur, full stack web iOS and blockchain developer.'
-url:              'https://www.guillaumelauzier.com'
+url:              'http://www.guillaumelauzier.com'
 baseurl:          'PersonalSite'
 
 # Navigation
