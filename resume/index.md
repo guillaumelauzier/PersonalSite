@@ -22,18 +22,21 @@ Implemented custom applications for content and knowledge management. Have also 
 			<div class="col-md-6">
 				<ul class="list-group">
 					<li class="list-group-item active"><h4><strong>Programming</strong></h4></li>
-					<li class="list-group-item">C#</li>
-					<li class="list-group-item">ASP.Net / ASP.Net MVC</li>
-					<li class="list-group-item">Javascript</li>
+					<li class="list-group-item">JavaScript</li>
+					<li class="list-group-item">Swift</li>
+					<li class="list-group-item">Python</li>
+					<li class="list-group-item">Solidity</li>
 					<li class="list-group-item">HTML & CSS</li>
 				</ul>
 			</div>
 			<div class="col-md-6">
 				<ul class="list-group">
 					<li class="list-group-item active"><h4><strong>Specialties</strong></h4></li>
-					<li class="list-group-item">.Net Web Technologies</li>
-					<li class="list-group-item">SharePoint 2013</li>
-					<li class="list-group-item">Sencha Ext Js</li>
+					<li class="list-group-item">Small Business Management</li>
+					<li class="list-group-item">Full Stack Web Development</li>
+					<li class="list-group-item">Full Stack iOS Developer</li>
+					<li class="list-group-item">Blockchain Developer</li>
+					<li class="list-group-item">Multimedia Content Production</li>
 				</ul>
 			</div>
 		</div>
