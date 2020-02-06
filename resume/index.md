@@ -51,12 +51,28 @@ Implemented custom applications for content and knowledge management. Have also 
 	<div class="col-md-9">
 		<ul>
 			<li>
-				<h4></h4>
-				<p>2004-2007 - Vellore Institute of Technology</p>
+				<h4>iOS / iPhone programmer certificate with Xcode and Swift</h4>
+				<p>2019-2020 - iFage, Geneva</p>
 			</li>
 			<li>
-				<h4>Bachelor of Sscience - Computer Science</h4>
-				<p>2001-2004 - University of Calicut</p>
+				<h4>English Literature & Canadian History</h4>
+				<p>2014 - University of Toronto</p>
+			</li>
+			<li>
+				<h4>Computer Science</h4>
+				<p>2014 - Ryerson University, Toronto</p>
+			</li>
+			<li>
+				<h4>Special Math Course (CMS)</h4>
+				<p>2008-2009 - EPF, Lausanne</p>
+			</li>
+			<li>
+				<h4>Gymnase du Soir</h4>
+				<p>2007-2008 - Gymnase du Soir, Lausanne</p>
+			</li>
+			<li>
+				<h4>Business Administration</h4>
+				<p>2001-2003 - Ecole Roche, Lausanne</p>
 			</li>
 		</ul>
 	</div>
