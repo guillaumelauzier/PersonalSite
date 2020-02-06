@@ -48,7 +48,7 @@ Implemented custom applications for content and knowledge management. Have also 
 	<div class="col-md-9">
 		<ul>
 			<li>
-				<h4>Master of Computer Applications (MCA)</h4>
+				<h4></h4>
 				<p>2004-2007 - Vellore Institute of Technology</p>
 			</li>
 			<li>
@@ -67,19 +67,44 @@ Implemented custom applications for content and knowledge management. Have also 
 	<div class="col-md-9">
 		<ul>
 			<li>
-				<h4>C4 Advanced Solutions</h4>
-				<h5>Present</h5>
-				<p>Working as Application Developer</p>
+				<h4>GeneratedArt</h4>
+				<h5>October 2015 - Present</h5>
+				<p>Founder</p>
 			</li>
 			<li>
-				<h4>Abdul Samad Al Qurashi</h4>
-				<h5>March 2010 - January 2013</h5>
-				<p>Worked as Web Developer</p>
+				<h4>GS Banque</h4>
+				<h5>April 2018 - August 2018</h5>
+				<p>IT & Digital Marketing Consultant</p>
 			</li>
 			<li>
-				<h4>Samsung SDS</h4>
-				<h5>May 2009 - March 2010</h5>
-				<p>Worked as Web Developer with MIS team</p>
+				<h4>VJs TV & VJs Mag</h4>
+				<h5>November 2012 - January 2018</h5>
+				<p>Founder</p>
+			</li>
+			<li>
+				<h4>Humans Rights Foundation (Centre Oecuménique, Geneva)</h4>
+				<h5>November 2014 - January 2015</h5>
+				<p>IT & Digital Marketing Consultant</p>
+			</li>
+			<li>
+				<h4>Dorier SA</h4>
+				<h5>August 2011 - June 2013</h5>
+				<p>Audiovisual Technician</p>
+			</li>
+			<li>
+				<h4>Galletti & Matter Architects</h4>
+				<h5>January 2009 - June 2009</h5>
+				<p>Internship</p>
+			</li>
+			<li>
+				<h4>B.Corbat & B.Cavassini Architects</h4>
+				<h5>June 2007 - July 2007</h5>
+				<p>Internship</p>
+			</li>
+			<li>
+				<h4>R.Bisseger&M.Caravaglio</h4>
+				<h5>May 2007 - June 2007</h5>
+				<p>Internship</p>
 			</li>
 			<li>
 				<h4>Honeywell Technology Solutions</h4>
