@@ -52,6 +52,36 @@ Implemented custom applications for content and knowledge management. Have also 
 	</div>
 </section>
 <hr/>
+<!-- Certifications -->
+<section class="row">
+	<header class="col-md-3">
+		<h3 style="text-transform:uppercase;color:gray">Certifications</h3>
+	</header>
+	<div class="col-md-9">
+		<ul>
+			<div class="tabcontrol container">
+    				<ul class="tabcontrol tabs" style="{{include.headerstyle}}">
+        				{% for tab in include.tabs %}
+            				<li class="tabcontrol tab {% if {tab[1].active %}active{% endif %}" data-name="							{{tab[1].name}}" data-target="tab_{{include.id}}" data-source="								{{include.id}}__{{tab[1].source}}">
+                				{{tab[1].title}}
+            			</li>
+            			{% if tab[1].active %}
+                		{% assign defaultsource = tab[1].source %}
+            			{% endif %}
+            			{% if tab[1].content %}
+            		<div id="{{include.id}}__{{tab[1].source}}" class="hidden">
+                {{tab[1].content | markdownify }}
+            </div>
+            {% endif %}
+        {% endfor %}
+    </ul>
+    <div id="tab_{{include.id}}" class="tabcontrol body {{include.bodyclass}}" style="{{include.bodystyle}}" data-defaultsource="{{include.id}}__{{defaultsource}}">
+    </div>
+</div>
+		</ul>
+	</div>
+</section>
+<hr/>
 <!-- Education -->
 <section class="row">
 	<header class="col-md-3">
