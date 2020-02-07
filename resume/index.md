@@ -9,7 +9,13 @@ Six years of experience in software development on Microsoft and Java technologi
 **Experience in Web Technology:**
 Building and Supporting web applications using Microsoft Technologies (ASP.Net & ASP.Net MVC). Developing UI using Ext JS and jQuery.
 
-**Experience in Enterprise Content Management:**
+**Experience in iOS Technology:**
+
+
+**Experience in Blockchain Technology:**
+
+
+**Experience in Multimedia Content Production**
 Implemented custom applications for content and knowledge management. Have also worked with leading industry ECM applications like SharePoint 2013, MOSS 2007, SharePoint 2010 and Documentum.
 
 <!-- Skills -->
