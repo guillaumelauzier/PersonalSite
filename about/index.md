@@ -9,18 +9,15 @@ I'm a full stack developer and entrepreneur working with a diversity of web tech
 
 ## Certifications, Licences and Badges
 
-The reality is technologies are changing at a rapide pace, keeping up abd learning by following courses is part of my weekly schedule. Having followed hundred of MOOC courses in addition to university courses, is part of accrediting you have the appropriate professional knowledge to start executing. Please refer to [accreditations] (https://guillaumelauzier.com/accreditations) section for certifications.
+The reality is technologies are changing at a rapide pace, aquiring the proper skills by following courses is part of my weekly schedule. Having followed hundred of MOOC courses in addition to university courses, is part of accrediting you have the appropriate professional knowledge to start executing. Please refer to [accreditations] (https://guillaumelauzier.com/accreditations) section for certifications, licences and badges.
 
 ## Coding Awards
 
-Jekyll Metro is the result of wanting a clean and new theme for my personal site. I was initially inspired by the [Hyde theme](https://github.com/poole/hyde). but soon I was googling to see if there are any Metro inspired theme available.
-Since, I couldn't find one, I decided to built one for myself. One of the main goal of building my own theme was to have a modern responsive theme that looks good on mobile, tablet and desktop.
-
-You are free to use or fork this theme. And any contribution to fixes of issues are welcome.
+Courses are great to have the appropriate understanding of technologies, on the other hand coding demands practice by doing problem solving exercices, sites like TopCoder CodeByte HackerRank CodeWars Leetcode amongst others offer coding challenges to get better. 
 
 ## Contact Me
 
-For short messages and quick replies, you can contact me via [Twitter](http://twitter.com/olakara) For anything longer feel free to use the comments section below and I'll reply you by email.
+For short messages and quick replies, you can contact me via [LinkedIn](https://www.linkedin.com/in/guillaumelauzier/) For anything longer feel free to use the comments section below and I'll reply you by email.
 
 ### Comments:
 
