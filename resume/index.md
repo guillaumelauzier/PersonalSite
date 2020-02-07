@@ -45,6 +45,7 @@ Implemented custom applications for content and knowledge management. Have also 
 					<li class="list-group-item">Full Stack iOS Development</li>
 					<li class="list-group-item">Blockchain Development</li>
 					<li class="list-group-item">Multimedia Content Production</li>
+					<li class="list-group-item">Digital Marketing</li>				
 				</ul>
 			</div>
 		</div>
