@@ -62,7 +62,9 @@ Implemented custom applications for content and knowledge management. Have also 
 			<div class="col-md-6">
 				<ul class="list-group">
 					<li class="list-group-item active"><h4><strong>Folders</strong></h4></li>
-					<li class="list-group-item">JavaScript</li>
+					<li class="list-group-item">
+						[Agile, DevOps & Project Management](https://drive.google.com/drive/folders/1a278qvFnI9ecAdwxTz02IzFUbYEZqtZF?usp=sharing)
+					</li>
 					<li class="list-group-item">Swift</li>
 					<li class="list-group-item">Python</li>
 					<li class="list-group-item">SQL</li>
