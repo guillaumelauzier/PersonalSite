@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-description: Resume of Abdel Raoof
+description: Resume of Guillaume Lauzier
 theme: red
 ---
 Six years of experience in software development on Microsoft and Java technologies. Experienced in design and development of enterprise web applications, content management systems and enterprise application integration.
@@ -34,8 +34,8 @@ Implemented custom applications for content and knowledge management. Have also 
 					<li class="list-group-item active"><h4><strong>Specialties</strong></h4></li>
 					<li class="list-group-item">Small Business Management</li>
 					<li class="list-group-item">Full Stack Web Development</li>
-					<li class="list-group-item">Full Stack iOS Developer</li>
-					<li class="list-group-item">Blockchain Developer</li>
+					<li class="list-group-item">Full Stack iOS Development</li>
+					<li class="list-group-item">Blockchain Development</li>
 					<li class="list-group-item">Multimedia Content Production</li>
 				</ul>
 			</div>
