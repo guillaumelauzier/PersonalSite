@@ -4,7 +4,7 @@ title: Resume
 description: Resume of Guillaume Lauzier
 theme: red
 ---
-Six years of experience in software development on Microsoft and Java technologies. Experienced in design and development of enterprise web applications, content management systems and enterprise application integration.
+Eight years of experience in website development with JavaScript technologies. Experienced in design and development of enterprise web applications, content management systems and enterprise application integration.
 
 **Experience in Web Technology:**
 Building and Supporting web applications using Microsoft Technologies (ASP.Net & ASP.Net MVC). Developing UI using Ext JS and jQuery.
