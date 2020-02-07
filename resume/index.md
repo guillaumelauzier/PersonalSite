@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 description: Resume of Guillaume Lauzier
-theme: red
+theme: darken
 ---
 Eight years of experience in website development with JavaScript technologies. Experienced in design and development of enterprise web applications, content management systems and enterprise application integration.
 
