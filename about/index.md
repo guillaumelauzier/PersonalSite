@@ -9,7 +9,7 @@ I'm a full stack developer and entrepreneur working with a diversity of web tech
 
 ## Certifications & Licences
 
-The reality is technologies are changing at a rapide pace, aquiring the proper skills by following courses is part of my weekly schedule. Having followed hundred of MOOC courses in addition to university courses, is part of accrediting you have the appropriate professional knowledge to start executing. Please refer to [resume](https://guillaumelauzier.com/resume/) section for certifications, licences and badges.
+The reality is technologies are changing at a rapide pace, acquiring the proper skills by following courses is part of my weekly schedule. Having followed hundred of MOOC courses in addition to university courses, is part of accrediting you have the appropriate professional knowledge to start executing. Please refer to [resume](https://guillaumelauzier.com/resume/) section for certifications, licences and badges.
 
 ## Coding Awards
 
