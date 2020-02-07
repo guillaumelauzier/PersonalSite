@@ -24,7 +24,7 @@ bloghome: true
 		              <div class="tags">
                   {% if post.tags %}
               		{% for tag in post.tags %}
-                			<a href="/tags/{{tag}}"><span class="label btn-orange">{{tag}}</span></a>
+                			<a href="/tags/{{tag}}"><span class="label btn-blue">{{tag}}</span></a>
               		{% endfor %}
            		 {% else %}
               		None
@@ -39,17 +39,17 @@ bloghome: true
             <div class="row">
               <div class="col-sm-6 col-xs-6 text-left">
                   {% if paginator.next_page %}
-                    <a class="btn btn-orange" href="{{paginator.next_page_path}}">← Older</a>
+                    <a class="btn btn-red" href="{{paginator.next_page_path}}">← Older</a>
                   {% else %}
-                    <span class="btn btn-orange disabled">← Older</span>
+                    <span class="btn btn-red disabled">← Older</span>
                   {% endif %}
               </div>
               <div class="col-sm-6 col-xs-6 text-right">
                   {% if paginator.previous_page %}
                     {% if paginator.page == 2 %}
-                    <a class="btn btn-orange" href="/blog/">Newer →</a>
+                    <a class="btn btn-blue" href="/blog/">Newer →</a>
                     {% else %}
-                    <a class="btn btn-orange" href="{{paginator.previous_page_path}}">Newer →</a>
+                    <a class="btn btn-blue" href="{{paginator.previous_page_path}}">Newer →</a>
                     {% endif %}
                   {% else %}
                     <span class="btn btn-orange disabled">Newer →</span>
