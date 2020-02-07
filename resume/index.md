@@ -55,29 +55,29 @@ Implemented custom applications for content and knowledge management. Have also 
 <!-- Certifications -->
 <section class="row">
 	<header class="col-md-3">
-		<h3 style="text-transform:uppercase;color:gray">Certifications</h3>
+		<h3 style="text-transform:uppercase;color:gray">Education</h3>
 	</header>
 	<div class="col-md-9">
 		<ul>
-			<div class="tabcontrol container">
-    				<ul class="tabcontrol tabs" style="{{include.headerstyle}}">
-        				{% for tab in include.tabs %}
-            				<li class="tabcontrol tab {% if {tab[1].active %}active{% endif %}" data-name="							{{tab[1].name}}" data-target="tab_{{include.id}}" data-source="								{{include.id}}__{{tab[1].source}}">
-                				{{tab[1].title}}
-            			</li>
-            			{% if tab[1].active %}
-                		{% assign defaultsource = tab[1].source %}
-            			{% endif %}
-            			{% if tab[1].content %}
-            		<div id="{{include.id}}__{{tab[1].source}}" class="hidden">
-                {{tab[1].content | markdownify }}
-            </div>
-            {% endif %}
-        {% endfor %}
-    </ul>
-    <div id="tab_{{include.id}}" class="tabcontrol body {{include.bodyclass}}" style="{{include.bodystyle}}" data-defaultsource="{{include.id}}__{{defaultsource}}">
-    </div>
-</div>
+			<dt id="fractious">fractious</dt>
+<dd>{{site.data.glossary.fractious}}</dd>
+
+<dt id="gratuitous">gratuitous</dt>
+<dd>{{site.data.glossary.gratuitous}}</dd>
+
+<dt id="haughty">haughty</dt>
+<dd>{{site.data.glossary.haughty}}</dd>
+
+<dt id="benchmark_id">gratuitous</dt>
+<dd>{{site.data.glossary.gratuitous}}</dd>
+
+<dt id="impertinent">impertinent</dt>
+<dd>{{site.data.glossary.impertinent}}</dd>
+
+<dt id="intrepid">intrepid</dt>
+<dd>{{site.data.glossary.intrepid}}</dd>
+
+</dl>{% endraw %}
 		</ul>
 	</div>
 </section>
