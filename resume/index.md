@@ -53,11 +53,7 @@ Implemented custom applications for content and knowledge management. Have also 
 </section>
 <hr/>
 <!-- Certifications -->
-<section class="row">
-	<header class="col-md-3">
-		<h3 style="text-transform:uppercase;color:gray">Certifications</h3>
-	</header>
-	<div class="panel-group" id="accordion">
+<div class="panel-group" id="accordion">
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
@@ -174,8 +170,8 @@ Implemented custom applications for content and knowledge management. Have also 
                             </div>
                         </div>
                     </div>
-</section>
-<hr/>
+                    <!-- /.panel -->
+</div>
 <!-- Education -->
 <section class="row">
 	<header class="col-md-3">
