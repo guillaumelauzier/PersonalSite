@@ -15,7 +15,7 @@ description: Home Page for Jekyll Metro Theme
 		<div class="row">
  			<div class="col-md-4 col-sm-6 col-xs-12">
 				<a href="about/" title="About Me">
-					<div class="tile purple profile">
+					<div class="tile blue profile">
 						<h2 class="title">About Me</h2>
 						<p>Full stack developer & entrepreneur,</p>
 						<p>based in Geneva, Switzerland.</p>						
@@ -39,7 +39,7 @@ description: Home Page for Jekyll Metro Theme
 			<div class="col-md-4 col-sm-6 col-xs-12">
 				{% for post in site.posts offset:1 limit:1 %}
 				<a href="{{post.url}}" title="Recent Article">
-					<div class="tile green">
+					<div class="tile blue">
 						<h3 class="title">Recent Article</h3>
 						<h4 class="title">{{ post.title }}</h4>
 						<p> {{ post.content | strip_html | truncatewords: 10 }}</p>
