@@ -61,20 +61,14 @@ Implemented custom applications for content and knowledge management. Have also 
 		<div class="row">
 			<div class="col-md-6">
 				<ul class="list-group">
-					<li class="list-group-item active"><h4><strong>Folders</strong></h4></li>
-					<li class="list-group-item">
-						<a href="https://drive.google.com/drive/folders/1a278qvFnI9ecAdwxTz02IzFUbYEZqtZF?usp=sharing">Agile, DevOps & Project Management</a>
-					</li>
-					<li class="list-group-item">Swift</li>
-					<li class="list-group-item">Python</li>
-					<li class="list-group-item">SQL</li>
-					<li class="list-group-item">PHP</li>
-					<li class="list-group-item">Solidity</li>
-					<li class="list-group-item">HTML & CSS</li>
+					<li class="list-group-item active"><h4><strong><a href="https://drive.google.com/drive/folders/16wFJobrMlWcASuzTC4sHIJJKZxnhS6wU?usp=sharing" target="_blank">Explore all Certifications folders</a></strong></h4></li>
 				</ul>
 			</div>
 		</div>
 	</div>
+	<header class="col-md-3">
+		<h3 style="text-transform:uppercase;color:gray">Badges</h3>
+	</header>
 </section>
 <hr/>
 <!-- Education -->
