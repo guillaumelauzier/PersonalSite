@@ -7,20 +7,9 @@ theme: purple
 
 I'm a full stack developer and entrepreneur working with a diversity of web technologies including web3 and developing iOS applications. I launched my 1st retail business at age 17 in Switzerland called Rolling Blaze, I also collaborated with and founded several other web startups. I am based in Geneva, Switzerland and currently working on blockchain solutions.
 
-## Certifications
+## Certifications, Licences and Badges
 
-Stackoverflow is a online community I hang around a lot during my free time. You can find me answering questions on Sencha's Ext Js , C# and Java. Here is my flair:
-
-<a href="http://stackexchange.com/users/62487">
-<img src="http://stackexchange.com/users/flair/62487.png?theme=clean" width="208" height="58" alt="profile for Abdel Olakara on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Abdel Olakara on Stack Exchange, a network of free, community-driven Q&amp;A sites">
-</a>
-
-
-## Badges
-
-This is a static site powered by Jekyll. The design was done by me and the theme is freely available on [Github](https://github.com/olakara/JekyllMetro). I have used Bootstrap, jQuery, icons from Metro Studio of Syncfusion and Github for hosting the site.
-
-Technicals apart, this is my personal site where I plan to pen down my thoughts, technical experiences that I would like to share. But, the content and opnion that you see here are personal and not related to companies / clients i work with. And regarding the code you see there.. you may use it as per your discretion.
+The reality is technologies are changing at a rapide pace, keeping up abd learning by following courses is part of my weekly schedule. Having followed hundred of MOOC courses in addition to university courses, is part of accrediting you have the appropriate professional knowledge to start executing. Please refer to [accreditations] (https://guillaumelauzier.com/accreditations) section for certifications.
 
 ## Coding Awards
 
