@@ -67,8 +67,17 @@ Implemented custom applications for content and knowledge management. Have also 
 		</div>
 	</div>
 	<header class="col-md-3">
-		<h3 style="text-transform:uppercase;color:gray">Badges</h3>
+		<h3 style="text-transform:uppercase;color:gray">Certfications</h3>
 	</header>
+	<div class="col-md-9">
+		<div class="row">
+			<div class="col-md-6">
+				<ul class="list-group">
+					<li class="list-group-item active"><h4><strong><a href="https://drive.google.com/open?id=1tCPiQfnRU45oM2hF-knJDOXXy6-hd1Yz" target="_blank">Explore all badges folder</a></strong></h4></li>
+				</ul>
+			</div>
+		</div>
+	</div>
 </section>
 <hr/>
 <!-- Education -->
