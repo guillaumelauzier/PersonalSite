@@ -1,38 +1,23 @@
 ---
 layout: page
 title: Guillaume Lauzier
-description: About Me page of Abdel Raoof
+description: About Me page of Guillaume Lauzier
 theme: purple
 ---
 
-I am a web focused developer mostly working using Microsoft .Net technologies. Occasionally, I end up working on non web related projects. I am based in Abu Dhabi, United Arab Emirates and work for C4 Advanced Solution as Application Developer.
-This is my personal website and blog where I put down my thoughts, solutions to problems and learning notes.
+I'm a full stack developer and entrepreneur working with a diversity of web technologies including web3 and developing iOS applications. I launched my 1st retail business at age 17 in Switzerland called Rolling Blaze, I also collaborated with and founded several other web startups. I am based in Geneva, Switzerland and currently working on blockchain solutions.
 
-## Stack Overflow
+## Certifications & Licences
 
-Stackoverflow is a online community I hang around a lot during my free time. You can find me answering questions on Sencha's Ext Js , C# and Java. Here is my flair:
+The reality is technologies are changing at a rapide pace, aquiring the proper skills by following courses is part of my weekly schedule. Having followed hundred of MOOC courses in addition to university courses, is part of accrediting you have the appropriate professional knowledge to start executing. Please refer to [accreditations] (https://guillaumelauzier.com/accreditations) section for certifications, licences and badges.
 
-<a href="http://stackexchange.com/users/62487">
-<img src="http://stackexchange.com/users/flair/62487.png?theme=clean" width="208" height="58" alt="profile for Abdel Olakara on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Abdel Olakara on Stack Exchange, a network of free, community-driven Q&amp;A sites">
-</a>
+## Coding Awards
 
-
-## About this Site
-
-This is a static site powered by Jekyll. The design was done by me and the theme is freely available on [Github](https://github.com/olakara/JekyllMetro). I have used Bootstrap, jQuery, icons from Metro Studio of Syncfusion and Github for hosting the site.
-
-Technicals apart, this is my personal site where I plan to pen down my thoughts, technical experiences that I would like to share. But, the content and opnion that you see here are personal and not related to companies / clients i work with. And regarding the code you see there.. you may use it as per your discretion.
-
-## About this Theme
-
-Jekyll Metro is the result of wanting a clean and new theme for my personal site. I was initially inspired by the [Hyde theme](https://github.com/poole/hyde). but soon I was googling to see if there are any Metro inspired theme available.
-Since, I couldn't find one, I decided to built one for myself. One of the main goal of building my own theme was to have a modern responsive theme that looks good on mobile, tablet and desktop.
-
-You are free to use or fork this theme. And any contribution to fixes of issues are welcome.
+Courses are great to have the appropriate understanding of technologies, on the other hand coding demands practice by doing problem solving exercices, sites like TopCoder CodeByte HackerRank CodeWars Leetcode amongst others offer coding challenges to get better.
 
 ## Contact Me
 
-For short messages and quick replies, you can contact me via [Twitter](http://twitter.com/olakara) For anything longer feel free to use the comments section below and I'll reply you by email.
+For short messages and quick replies, you can contact me via [LinkedIn](https://www.linkedin.com/in/guillaumelauzier/) For anything longer feel free to use the comments section below and I'll reply you by email.
 
 ### Comments:
 
