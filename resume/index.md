@@ -32,6 +32,7 @@ Implemented custom applications for content and knowledge management. Have also 
 					<li class="list-group-item">Swift</li>
 					<li class="list-group-item">Python</li>
 					<li class="list-group-item">SQL</li>
+					<li class="list-group-item">PHP</li>
 					<li class="list-group-item">Solidity</li>
 					<li class="list-group-item">HTML & CSS</li>
 				</ul>
