@@ -61,7 +61,7 @@ Implemented custom applications for content and knowledge management. Have also 
 		<div class="row">
 			<div class="col-md-6">
 				<ul class="list-group">
-					<li class="list-group-item active"><h4><strong><a href="https://drive.google.com/drive/folders/16wFJobrMlWcASuzTC4sHIJJKZxnhS6wU?usp=sharing" target="_blank">Explore all Certifications folders</a></strong></h4></li>
+					<li class="list-group-item active"><h4><strong><a href="https://drive.google.com/drive/folders/16wFJobrMlWcASuzTC4sHIJJKZxnhS6wU?usp=sharing" target="_blank">Explore all certifications folder</a></strong></h4></li>
 				</ul>
 			</div>
 		</div>
