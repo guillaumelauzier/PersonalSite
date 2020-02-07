@@ -55,7 +55,7 @@ Implemented custom applications for content and knowledge management. Have also 
 <!-- Certifications -->
 <section class="row">
 	<header class="col-md-3">
-		<h3 style="text-transform:uppercase;color:gray">Certfications</h3>
+		<h3 style="text-transform:uppercase;color:gray">Certifications</h3>
 	</header>
 	<div class="col-md-9">
 		<div class="row">
