@@ -2,7 +2,7 @@
 layout: page
 title: Guillaume Lauzier
 description: About Me page of Guillaume Lauzier
-theme: purple
+theme: darken
 ---
 
 I'm a full stack developer and entrepreneur working with a diversity of web technologies including web3 and developing iOS applications. I launched my 1st retail business at age 17 in Switzerland called Rolling Blaze, I also collaborated with and founded several other web startups. I am based in Geneva, Switzerland and currently working on blockchain solutions.
