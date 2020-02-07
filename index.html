@@ -53,7 +53,7 @@ description: Home Page for Jekyll Metro Theme
 				{% for post in site.posts limit:1 %}
 				<a href="{{post.url}}" title="Latest Documentation">
 					<div class="tile red">
-						<h3 class="title">Latest Article</h3>
+						<h3 class="title">Latest Documentation</h3>
 						<h4 class="title">{{ post.title }}</h4>
 						<p> {{ post.content | strip_html | truncatewords: 10 }}</p>
 					</div>
@@ -64,8 +64,8 @@ description: Home Page for Jekyll Metro Theme
 			<div class="col-md-4 col-sm-6 col-xs-12">
 				{% for post in site.posts %}
 					{% if post.featured == true %}
-					<a href="{{post.url}}" title="Featured Article">
-						<div class="tile orange">
+					<a href="{{post.url}}" title="Featured Apps">
+						<div class="tile blue">
 							<h3 class="title">Featured Article</h3>
 							<h4 class="title">{{ post.title }}</h4>
 							<p> {{ post.content | strip_html | truncatewords: 10 }}</p>
