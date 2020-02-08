@@ -52,6 +52,69 @@ Implemented custom applications for content and knowledge management. Have also 
 	</div>
 </section>
 <hr/>
+<!-- Skills -->
+<section class="row">
+	<header class="col-md-3">
+		<h3 style="text-transform:uppercase;color:gray">Learning</h3>
+	</header>
+	<div class="col-md-9">
+		<div class="row">
+			<div class="col-md-6">
+				<ul class="list-group">
+					<li class="list-group-item active"><h4><strong>MOOC Profiles</strong></h4></li>
+					<li class="list-group-item">
+						<a href="https://www.coursera.org/user/b4891b2e63903f214571167dc955d178" 									target="_blank">Coursera</a>
+					</li>
+					<li class="list-group-item">
+						<a href="https://app.pluralsight.com/profile/guillaumelauzier" 									target="_blank">Pluralsight</a>
+					</li>
+					<li class="list-group-item">
+						<a href="https://www.codecademy.com/profiles/guillaumelauzier" 									target="_blank">Codecademy</a>
+					</li>					
+					<li class="list-group-item">
+						<a href="https://www.bitdegree.org/user/guillaumelauzier/profile" 									target="_blank">BitDegree</a>
+					</li>
+					<li class="list-group-item">
+						<a href="https://www.khanacademy.org/profile/guillaumelauzier/" 									target="_blank">Khan Academy</a>
+					</li>
+					<li class="list-group-item">
+						<a href="https://www.udemy.com/user/guillaume-lauzier-3/" 									target="_blank">Udemy</a>
+					</li>
+					<li class="list-group-item">
+						<a href="https://www.freecodecamp.org/guillaumelauzier" 									target="_blank">FreeCodeCamp</a>
+					</li>
+				</ul>
+			</div>
+			<div class="col-md-6">
+				<ul class="list-group">
+					<li class="list-group-item active"><h4><strong>Coding Profiles</strong></h4></li>
+					<li class="list-group-item">
+						<a href="https://www.hackerrank.com/Guillaumelauzier" 									target="_blank">HackerRank</a>
+					</li>
+					<li class="list-group-item">
+						<a href="https://app.pluralsight.com/profile/guillaumelauzier" 									target="_blank">Pluralsight</a>
+					</li>
+					<li class="list-group-item">
+						<a href="https://www.codecademy.com/profiles/guillaumelauzier" 									target="_blank">Codecademy</a>
+					</li>					
+					<li class="list-group-item">
+						<a href="https://www.bitdegree.org/user/guillaumelauzier/profile" 									target="_blank">BitDegree</a>
+					</li>
+					<li class="list-group-item">
+						<a href="https://www.khanacademy.org/profile/guillaumelauzier/" 									target="_blank">Khan Academy</a>
+					</li>
+					<li class="list-group-item">
+						<a href="https://www.udemy.com/user/guillaume-lauzier-3/" 									target="_blank">Udemy</a>
+					</li>
+					<li class="list-group-item">
+						<a href="https://www.freecodecamp.org/guillaumelauzier" 									target="_blank">FreeCodeCamp</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</section>
+<hr/>
 <!-- Certifications -->
 <section class="row">
 	<header class="col-md-3">
