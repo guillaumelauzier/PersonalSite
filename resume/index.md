@@ -256,6 +256,11 @@ Implemented custom applications for content and knowledge management. Have also 
 				<h5>January 2004- September 2005</h5>
 				<p>Audiovisual Technician</p>
 			</li>
+			<li>
+				<h4>Rolling Blaze (Aigle, Switzerland)</h4>
+				<h5>September 2002- September 2005</h5>
+				<p>Founder</p>
+			</li>
 		</ul>
 	</div>
 </section>
