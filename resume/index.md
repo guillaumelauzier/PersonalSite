@@ -4,19 +4,13 @@ title: Resume
 description: Resume of Guillaume Lauzier
 theme: darken
 ---
-Eight years of experience in website development with JavaScript technologies. Experienced in design and development of enterprise web applications, iOS mobile applications, content management systems and enterprise application integration.
+Entrepreneur with a strong tech and business mindset, eight years of experience in website development with JavaScript technologies. Also experienced in design and development of enterprise web applications, iOS mobile applications, web3 dapps, content management systems and enterprise application integration.
 
 **Experience in Web Technology:**
-Building and Supporting web applications using Microsoft Technologies (ASP.Net & ASP.Net MVC). Developing UI using Ext JS and jQuery.
+Building logic in JavaScript SQL PHP and supporting web applications using Wordpress, MySQL and other SQL servers, ExpressJS. Developing UI from prototyping in Adobe and Sketch to frontend process with JS libraries such as ReactJS, Angular, Bootstrap amongst many more.
 
 **Experience in iOS Technology:**
-
-
-**Experience in Blockchain Technology:**
-
-
-**Experience in Multimedia Content Production**
-Implemented custom applications for content and knowledge management. Have also worked with leading industry ECM applications like SharePoint 2013, MOSS 2007, SharePoint 2010 and Documentum.
+Developing simple iPhone interactive apps with Swift in Xcode, to UI prototyping with supporting REST API and database management.
 <hr/>
 <!-- Skills -->
 <section class="row">
