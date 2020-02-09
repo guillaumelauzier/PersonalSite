@@ -92,22 +92,22 @@ Implemented custom applications for content and knowledge management. Have also 
 						<a href="https://www.hackerrank.com/Guillaumelauzier" 									target="_blank">HackerRank</a>
 					</li>
 					<li class="list-group-item">
-						<a href="https://app.pluralsight.com/profile/guillaumelauzier" 									target="_blank">Pluralsight</a>
+						<a href="https://coderbyte.com/profile/guillaumelauzier" 									target="_blank">CodeByte</a>
 					</li>
 					<li class="list-group-item">
-						<a href="https://www.codecademy.com/profiles/guillaumelauzier" 									target="_blank">Codecademy</a>
+						<a href="https://leetcode.com/guillaumelauzier/" 									target="_blank">LeetCode</a>
+					</li>
+					<li class="list-group-item">
+						<a href="https://app.codesignal.com/profile/llaulau" 									target="_blank">CodeSignal</a>
+					</li>
+					<li class="list-group-item">
+						<a href="https://www.codewars.com/users/guillaumelauzier" 									target="_blank">CodeWars</a>
+					</li>
+					<li class="list-group-item">
+						<a href="https://www.topcoder.com/members/Llaulau" 									target="_blank">TopCoder</a>
 					</li>					
 					<li class="list-group-item">
-						<a href="https://www.bitdegree.org/user/guillaumelauzier/profile" 									target="_blank">BitDegree</a>
-					</li>
-					<li class="list-group-item">
-						<a href="https://www.khanacademy.org/profile/guillaumelauzier/" 									target="_blank">Khan Academy</a>
-					</li>
-					<li class="list-group-item">
-						<a href="https://www.udemy.com/user/guillaume-lauzier-3/" 									target="_blank">Udemy</a>
-					</li>
-					<li class="list-group-item">
-						<a href="https://www.freecodecamp.org/guillaumelauzier" 									target="_blank">FreeCodeCamp</a>
+						<a href="https://www.codechef.com/users/llaulau" 									target="_blank">CodeChef</a>
 					</li>
 				</ul>
 			</div>
