@@ -13,14 +13,9 @@
       <div class="col-md-12">
         <ul class="left-nav">
         {% for link in site.navigation %}
-          {% capture pageurl %}{{link.url}}{{"index.html"}}{% endcapture %}
-          {% if page.url == pageurl or (link.text == 'Blog' and page.id) %}
-            <li class="left-nav-item left-nav-selected">{{link.text}}</a>
-          {% else %}
             <li class="left-nav-item">
-              <a href="{{link.url}}">{{link.text}}</a>
+              <a href="https://guillaumelauzier.com/documentation">documentation</a>
             </li>
-          {% endif %}
         {% endfor %}
         </ul>
     </div>
