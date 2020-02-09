@@ -202,7 +202,7 @@ Implemented custom applications for content and knowledge management. Have also 
 				<p>IT & Digital Marketing Consultant</p>
 			</li>
 			<li>
-				<h4>FIAUD (Toronto, Canada)</h4>
+				<h4>FIAUD</h4>
 				<h5>May 2014 - December 2016</h5>
 				<p>Founder</p>
 			</li>
