@@ -83,6 +83,9 @@ Implemented custom applications for content and knowledge management. Have also 
 					<li class="list-group-item">
 						<a href="https://www.freecodecamp.org/guillaumelauzier" 									target="_blank">FreeCodeCamp</a>
 					</li>
+					<li class="list-group-item">
+						<a href="https://profile.edx.org/u/guillaumelauzier" 									target="_blank">EdX</a>
+					</li>
 				</ul>
 			</div>
 			<div class="col-md-6">
@@ -108,6 +111,9 @@ Implemented custom applications for content and knowledge management. Have also 
 					</li>					
 					<li class="list-group-item">
 						<a href="https://www.codechef.com/users/llaulau" 									target="_blank">CodeChef</a>
+					</li>
+					<li class="list-group-item">
+						<a href="https://hackr.io/guillaumelauzier" 									target="_blank">HackR</a>
 					</li>
 				</ul>
 			</div>
