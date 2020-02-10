@@ -22,13 +22,20 @@ Developing simple iPhone interactive apps with Swift in Xcode, to UI prototyping
 			<div class="col-md-6">
 				<ul class="list-group">
 					<li class="list-group-item active"><h4><strong>Programming</strong></h4></li>
-					<li class="list-group-item">JavaScript</li>
-					<li class="list-group-item">Swift</li>
-					<li class="list-group-item">Python</li>
-					<li class="list-group-item">SQL</li>
-					<li class="list-group-item">PHP</li>
-					<li class="list-group-item">Solidity</li>
-					<li class="list-group-item">HTML & CSS</li>
+					<li class="list-group-item">[JavaScript](https://guillaumelauzier.com/tags/JavaScript/)</li>
+					<li class="list-group-item">
+						[Swift](https://guillaumelauzier.com/tags/Swift/)</li>
+					<li class="list-group-item">
+						[Python](https://guillaumelauzier.com/tags/Python/)</li>
+					<li class="list-group-item">
+						[SQL](https://guillaumelauzier.com/tags/SQL/)</li>
+					<li class="list-group-item">
+						[PHP](https://guillaumelauzier.com/tags/PHP/)</li>
+					<li class="list-group-item">
+						[Solidity](https://guillaumelauzier.com/tags/Solidity/)</li>
+					<li class="list-group-item">
+						[HTML](https://guillaumelauzier.com/tags/HTML/) & 
+						[CSS](https://guillaumelauzier.com/tags/CSS/)</li>
 				</ul>
 			</div>
 			<div class="col-md-6">
