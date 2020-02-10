@@ -37,10 +37,10 @@ description: Home Page for Jekyll Metro Theme
 		<div class="row">
 
 			<div class="col-md-4 col-sm-6 col-xs-12">
-				{% for post in site.posts offset:1 limit:1 %}
-				<a href="{{post.url}}" title="Recent Article">
-					<div class="tile blue">
-						<h3 class="title">Recent Article</h3>
+				{% for post in site.posts limit:1 %}
+				<a href="/collaboration" title="Latest Documentation">
+					<div class="tile red">
+						<h3 class="title">Collaboration Opportunities</h3>
 						<h4 class="title">{{ post.title }}</h4>
 						<p> {{ post.content | strip_html | truncatewords: 10 }}</p>
 					</div>
