@@ -22,20 +22,28 @@ Developing simple iPhone interactive apps with Swift in Xcode, to UI prototyping
 			<div class="col-md-6">
 				<ul class="list-group">
 					<li class="list-group-item active"><h4><strong>Programming</strong></h4></li>
-					<li class="list-group-item">[JavaScript](https://guillaumelauzier.com/tags/JavaScript/)</li>
 					<li class="list-group-item">
-						[Swift](https://guillaumelauzier.com/tags/Swift/)</li>
+						[JavaScript](https://guillaumelauzier.com/tags/JavaScript/)
+					</li>
 					<li class="list-group-item">
-						[Python](https://guillaumelauzier.com/tags/Python/)</li>
+						[Swift](https://guillaumelauzier.com/tags/Swift/)
+					</li>
 					<li class="list-group-item">
-						[SQL](https://guillaumelauzier.com/tags/SQL/)</li>
+						[Python](https://guillaumelauzier.com/tags/python/)
+					</li>
 					<li class="list-group-item">
-						[PHP](https://guillaumelauzier.com/tags/PHP/)</li>
+						[SQL](https://guillaumelauzier.com/tags/SQL)
+					</li>
 					<li class="list-group-item">
-						[Solidity](https://guillaumelauzier.com/tags/Solidity/)</li>
+						[PHP](https://guillaumelauzier.com/tags/PHP)
+					</li>
+					<li class="list-group-item">
+						[Solidity](https://guillaumelauzier.com/tags/solidity/)
+					</li>
 					<li class="list-group-item">
 						[HTML](https://guillaumelauzier.com/tags/HTML/) & 
-						[CSS](https://guillaumelauzier.com/tags/CSS/)</li>
+						[CSS](https://guillaumelauzier.com/tags/CSS/)
+					</li>
 				</ul>
 			</div>
 			<div class="col-md-6">
