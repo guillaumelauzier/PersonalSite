@@ -3,7 +3,7 @@ layout: post
 title:  SWIFT - Decodable
 date:   2019-12-07 15:30:00
 categories: Swift
-tags: Swift, Xcode, JSON
+tags: Swift Xcode JSON
 ---
 
 A blog is a Web site that enables you or your organization to quickly share ideas and information. Blogs contain posts that are dated and listed in reverse chronological order. People can comment on your posts, as well as provide links to interesting sites, photos, and related blogs.
