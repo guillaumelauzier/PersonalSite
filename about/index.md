@@ -7,9 +7,13 @@ theme: darken
 
 I'm a full stack developer and entrepreneur working with a diversity of web technologies including web3 and developing iOS applications. I launched my 1st retail business at 17 in Switzerland called Rolling Blaze and have been accumulating the tech ventures since then. I also collaborated with and founded several other web startups which has strenghten my experience of trial&error. I am based in Geneva, Switzerland and interested in working on blockchain solutions, I'm also open to other challenges as well. 
 
+## Collaboration & Opportunities
+
 You'll find projects I'm currently working on in [Collaboration](https://guillaumelauzier.com/collaboration) which I may need partners, resources, investors, developers and team members. Information should be provided in project details, keep the ["alert"](https://www.linkedin.com/in/guillaumelauzier/) on. If you think you have something amazing going on and need help for, feel free to reach me on [LinkedIn](https://www.linkedin.com/in/guillaumelauzier/).
 
-If you're interested in reading documentation about different apps and projects I've worked on, check out [Blog](https://guillaumelauzier.com/blog) section. You can browse the technology I used in the [Tags](https://guillaumelauzier.com/tags), and sort based on your area of interest.
+## Development Documentation
+
+If you're interested in reading documentation about different apps and projects I've worked on, check out [Blog](https://guillaumelauzier.com/blog) section. You can browse the technology I used in the [Tags](https://guillaumelauzier.com/tags), and sort based on your areas of interests.
 
 
 ## Certifications & Licences
