@@ -23,26 +23,26 @@ Developing simple iPhone interactive apps with Swift in Xcode, to UI prototyping
 				<ul class="list-group">
 					<li class="list-group-item active"><h4><strong>Programming</strong></h4></li>
 					<li class="list-group-item">
-						[JavaScript](https://guillaumelauzier.com/tags/JavaScript/)
+						<a href="https://guillaumelauzier.com/tags/JavaScript/" 									target="_blank">JavaScript</a>
 					</li>
 					<li class="list-group-item">
-						[Swift](https://guillaumelauzier.com/tags/Swift/)
+						<a href="https://guillaumelauzier.com/tags/Swift/" 									target="_blank">Swift</a>
 					</li>
 					<li class="list-group-item">
-						[Python](https://guillaumelauzier.com/tags/python/)
+						<a href="https://guillaumelauzier.com/tags/python/" 									target="_blank">Python</a>
 					</li>
 					<li class="list-group-item">
-						[SQL](https://guillaumelauzier.com/tags/SQL)
+						<a href="https://guillaumelauzier.com/tags/SQL" 									target="_blank">SQL</a>
 					</li>
 					<li class="list-group-item">
-						[PHP](https://guillaumelauzier.com/tags/PHP)
+						<a href="https://guillaumelauzier.com/tags/PHP" 									target="_blank">PHP</a>
 					</li>
 					<li class="list-group-item">
-						[Solidity](https://guillaumelauzier.com/tags/solidity/)
+						<a href="https://guillaumelauzier.com/tags/solidity/" 									target="_blank">Solidity</a>
 					</li>
 					<li class="list-group-item">
-						[HTML](https://guillaumelauzier.com/tags/HTML/) & 
-						[CSS](https://guillaumelauzier.com/tags/CSS/)
+						<a href="https://guillaumelauzier.com/tags/HTML/" 									target="_blank">HTML</a> & 
+						<a href="https://guillaumelauzier.com/tags/CSS/" 									target="_blank">CSS</a>
 					</li>
 				</ul>
 			</div>
