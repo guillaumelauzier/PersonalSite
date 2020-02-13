@@ -26,7 +26,7 @@ navigation:
   url : /collaboration/
 - text: Blog
   url: /blog/
-- text: Tags
+- text: Doc Tags
   url: /tags/
 - text: Search
   url: /search/
