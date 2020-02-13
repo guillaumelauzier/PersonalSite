@@ -11,8 +11,8 @@ theme: darken
     <section class="tags">
       <ul class="nav nav-pills">
         {% for tag in site.tags %}
-        <li class="red" style="margin:5px">
-          <a href="/tags/{{ tag | first | slugize }}/">
+        <li class="blue" style="margin:5px">
+          <a href="/tags/reactjs{{ tag | first | slugize }}/">
             {{ tag | first }}&nbsp;<span class="badge"
               >{{ tag | last | size}}</span
             ></a
