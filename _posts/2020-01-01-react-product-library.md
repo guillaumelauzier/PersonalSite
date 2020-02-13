@@ -7,6 +7,7 @@ tags: ReactJS JavaScript npm DOM
 ---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Find the Source Code of the [Product Library](https://github.com/guillaumelauzier/ReactProductLibrary).
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md).

@@ -9,24 +9,11 @@
                 </div>
                 <div class="navbar-collapse collapse navbar-responsive-collapse">
                     <ul class="nav navbar-nav">
-                        <li class="left-nav-item">
-                                    <a href="https://guillaumelauzier.com/about">About</a>
-                        </li>
-                        <li class="left-nav-item">
-                                    <a href="https://guillaumelauzier.com/resume">Resume</a>
-                        </li>
-                        <li class="left-nav-item">
-                                    <a href="https://guillaumelauzier.com/collaboration">Collaboration</a>
-                        </li>
-                        <li class="left-nav-item">
-                                    <a href="https://guillaumelauzier.com/blog">Blog</a>
-                        </li>
-                        <li class="left-nav-item">
-                                    <a href="https://guillaumelauzier.com/tags">Tags</a>
-                        </li>
-                        <li class="left-nav-item">
-                                    <a href="https://guillaumelauzier.com/search">Search</a>
-                        </li>
+                        {% for link in site.navigation %}
+                          <li>
+                            <a href="{{link.url}}">{{link.text}}</a>
+                          </li>
+                        {% endfor %}
                     </ul>
                 </div>
             </div>

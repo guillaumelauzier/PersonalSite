@@ -12,24 +12,16 @@
   <div class="row">
       <div class="col-md-12">
         <ul class="left-nav">
+        {% for link in site.navigation %}
+          {% capture pageurl %}{{link.url}}{{"index.html"}}{% endcapture %}
+          {% if page.url == pageurl or (link.text == 'Blog' and page.id) %}
+            <li class="left-nav-item left-nav-selected">{{link.text}}</a>
+          {% else %}
             <li class="left-nav-item">
-              <a href="https://guillaumelauzier.com/about">About</a>
+              <a href="{{link.url}}">{{link.text}}</a>
             </li>
-            <li class="left-nav-item">
-              <a href="https://guillaumelauzier.com/resume">Resume</a>
-            </li>
-            <li class="left-nav-item">
-              <a href="https://guillaumelauzier.com/collaboration">Collaboration</a>
-            </li>
-            <li class="left-nav-item">
-              <a href="https://guillaumelauzier.com/blog">Blog</a>
-            </li>
-            <li class="left-nav-item">
-              <a href="https://guillaumelauzier.com/tags">Tags</a>
-            </li>
-            <li class="left-nav-item">
-              <a href="https://guillaumelauzier.com/search">Search</a>
-            </li>
+          {% endif %}
+        {% endfor %}
         </ul>
     </div>
   </div>
