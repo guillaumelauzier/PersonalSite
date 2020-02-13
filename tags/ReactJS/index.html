@@ -12,7 +12,7 @@ theme: darken
       <ul class="nav nav-pills">
         {% for tag in site.tags %}
         <li class="blue" style="margin:5px">
-          <a href="/tags/reactjs{{ tag | first | slugize }}/">
+          <a href="/tags/{{ tag | first | slugize }}/">
             {{ tag | first }}&nbsp;<span class="badge"
               >{{ tag | last | size}}</span
             ></a
