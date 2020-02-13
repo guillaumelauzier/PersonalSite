@@ -24,7 +24,7 @@ navigation:
   url: /resume/
 - text: Collaboration
   url : /collaboration/
-- text: Blog
+- text: Info Blog
   url: /blog/
 - text: Doc Tags
   url: /tags/
