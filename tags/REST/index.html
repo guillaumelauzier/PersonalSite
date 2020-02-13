@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tags - Xcode
+title: Documentation Tags - REST
 description: All articles with SharePoint tag assigned
 theme: darken
 ---
@@ -11,7 +11,7 @@ theme: darken
     <section class="tags">
       <ul class="nav nav-pills">
         {% for tag in site.tags %}
-        <li class="red" style="margin:5px">
+        <li class="blue" style="margin:5px">
           <a href="/tags/{{ tag | first | slugize }}/">
             {{ tag | first }}&nbsp;<span class="badge"
               >{{ tag | last | size}}</span
@@ -28,10 +28,10 @@ theme: darken
 <div class="row">
   <div class="col-md-12">
     <section>
-      <h3>SharePoint</h3>
+      <h3>REST</h3>
       <ul>
         {% for post in site.posts %} {% for otag in post.tags %} {% if otag ==
-        'SharePoint' %}
+        'REST' %}
         <li class="alink">
           <a href="{{ post.url }}" class="red-link">{{ post.title }}</a>
         </li>
