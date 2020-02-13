@@ -3,7 +3,7 @@ layout: post
 title:  React - Product Library
 date:   2020-01-01 15:30:00
 categories: React
-tags: React Javascript npm
+tags: ReactJS JavaScript npm DOM
 ---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
