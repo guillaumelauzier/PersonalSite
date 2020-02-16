@@ -216,6 +216,11 @@ Developing simple iPhone interactive apps with Swift in Xcode, to UI prototyping
 				<p>Founder</p>
 			</li>
 			<li>
+				<h4>Khuko (Toronto, Canada)</h4>
+				<h5>August 2013 - August 2016</h5>
+				<p>Founder</p>
+			</li>
+			<li>
 				<h4>VJs TV & VJs Mag</h4>
 				<h5>November 2012 - January 2018</h5>
 				<p>Founder</p>
